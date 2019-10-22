@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'core',
     'estoque',
-    'produto'
+    'produto',
+    'estoq',
 ]
 
 MIDDLEWARE = [
